@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Damka", "Damka\Damka.csproj", "{B857E218-C8AB-410E-8CC0-0E7CF1692215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B857E218-C8AB-410E-8CC0-0E7CF1692215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B857E218-C8AB-410E-8CC0-0E7CF1692215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B857E218-C8AB-410E-8CC0-0E7CF1692215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B857E218-C8AB-410E-8CC0-0E7CF1692215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BFF4B23-2F37-4134-9E98-3E5C4DF995EA}
+	EndGlobalSection
+EndGlobal
